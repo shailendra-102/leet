@@ -4,11 +4,13 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/shailendra-102/leet/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -21,6 +23,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -30,4 +33,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
