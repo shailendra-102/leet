@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/shailendra-102/leet/tree/master/0485-max-consecutive-ones) |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
