@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/shailendra-102/leet/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
