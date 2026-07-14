@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/shailendra-102/leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shailendra-102/leet/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
+| [2104-sum-of-subarray-ranges](https://github.com/shailendra-102/leet/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,10 +45,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/shailendra-102/leet/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/shailendra-102/leet/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
