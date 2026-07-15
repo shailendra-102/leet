@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/shailendra-102/leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shailendra-102/leet/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
+| [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/shailendra-102/leet/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -64,8 +65,13 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
+| [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
