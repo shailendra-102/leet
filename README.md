@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
