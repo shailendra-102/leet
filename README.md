@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shailendra-102/leet/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
