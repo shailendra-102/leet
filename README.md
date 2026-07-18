@@ -36,6 +36,7 @@
 | [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shailendra-102/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shailendra-102/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
