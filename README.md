@@ -96,6 +96,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shailendra-102/leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shailendra-102/leet/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shailendra-102/leet/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
