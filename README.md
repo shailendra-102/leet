@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/shailendra-102/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shailendra-102/leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/shailendra-102/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-102/leet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -80,6 +82,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shailendra-102/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
