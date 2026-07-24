@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/shailendra-102/leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shailendra-102/leet/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-102/leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
@@ -35,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/shailendra-102/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-102/leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
 ## Math
@@ -98,6 +100,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
 ## Recursion
 |  |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
 ## Number Theory
 |  |
 | ------- |
