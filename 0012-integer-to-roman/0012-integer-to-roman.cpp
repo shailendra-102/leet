@@ -19,7 +19,7 @@ public:
 
         string ans = "";
 
-        for (auto &p : roman) {
+        for (auto p : roman) {
             while (num >= p.first) {
                 ans += p.second;
                 num -= p.first;
