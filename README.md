@@ -40,6 +40,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/shailendra-102/leet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/shailendra-102/leet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailendra-102/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
