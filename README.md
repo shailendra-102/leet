@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shailendra-102/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/shailendra-102/leet/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
@@ -86,6 +87,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shailendra-102/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
@@ -163,4 +165,8 @@
 | [0389-find-the-difference](https://github.com/shailendra-102/leet/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailendra-102/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shailendra-102/leet/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
