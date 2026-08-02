@@ -21,6 +21,7 @@
 | [0697-degree-of-an-array](https://github.com/shailendra-102/leet/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/shailendra-102/leet/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shailendra-102/leet/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
@@ -48,6 +49,7 @@
 | [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-102/leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/shailendra-102/leet/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shailendra-102/leet/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
 ## Math
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
 ## Recursion
 |  |
@@ -169,4 +172,21 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shailendra-102/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
