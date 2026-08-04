@@ -20,6 +20,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-102/leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/shailendra-102/leet/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/shailendra-102/leet/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shailendra-102/leet/tree/master/0922-sort-array-by-parity-ii) |
@@ -64,6 +65,7 @@
 | [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-102/leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailendra-102/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shailendra-102/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -72,6 +74,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
+| [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -80,6 +83,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
 ## Stack
 |  |
@@ -200,4 +204,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
