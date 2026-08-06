@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shailendra-102/leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/shailendra-102/leet/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shailendra-102/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shailendra-102/leet/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
@@ -54,6 +55,7 @@
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/shailendra-102/leet/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/shailendra-102/leet/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shailendra-102/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-102/leet/tree/master/0628-maximum-product-of-three-numbers) |
