@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/shailendra-102/leet/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shailendra-102/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/shailendra-102/leet/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shailendra-102/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shailendra-102/leet/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shailendra-102/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
@@ -142,6 +145,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Counting Sort
@@ -203,6 +207,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shailendra-102/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -242,4 +247,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
