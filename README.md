@@ -234,4 +234,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shailendra-102/leet/tree/master/0164-maximum-gap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
