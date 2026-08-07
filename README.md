@@ -72,6 +72,7 @@
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/shailendra-102/leet/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-102/leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
@@ -168,6 +169,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shailendra-102/leet/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/shailendra-102/leet/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
@@ -192,6 +194,7 @@
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shailendra-102/leet/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/shailendra-102/leet/tree/master/0412-fizz-buzz) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailendra-102/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
