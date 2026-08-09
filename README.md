@@ -130,6 +130,7 @@
 | [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/shailendra-102/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shailendra-102/leet/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shailendra-102/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/shailendra-102/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Counting Sort
@@ -199,6 +201,7 @@
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/shailendra-102/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shailendra-102/leet/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/shailendra-102/leet/tree/master/0412-fizz-buzz) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -251,4 +254,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shailendra-102/leet/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
