@@ -72,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shailendra-102/leet/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
@@ -159,6 +160,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shailendra-102/leet/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/shailendra-102/leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 ## Greedy
@@ -182,6 +184,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shailendra-102/leet/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/shailendra-102/leet/tree/master/0024-swap-nodes-in-pairs) |
 ## Tree
 |  |
