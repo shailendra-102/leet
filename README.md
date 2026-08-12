@@ -25,6 +25,7 @@
 | [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-102/leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/shailendra-102/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/shailendra-102/leet/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
@@ -273,4 +274,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shailendra-102/leet/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shailendra-102/leet/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
