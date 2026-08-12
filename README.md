@@ -39,6 +39,7 @@
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shailendra-102/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shailendra-102/leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/shailendra-102/leet/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@
 | [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailendra-102/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shailendra-102/leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shailendra-102/leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
