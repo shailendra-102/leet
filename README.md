@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/shailendra-102/leet/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/shailendra-102/leet/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
@@ -157,6 +158,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shailendra-102/leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shailendra-102/leet/tree/master/0389-find-the-difference) |
