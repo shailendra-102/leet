@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shailendra-102/leet/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shailendra-102/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shailendra-102/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shailendra-102/leet/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shailendra-102/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/shailendra-102/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -131,6 +133,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shailendra-102/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -277,5 +280,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shailendra-102/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shailendra-102/leet/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
