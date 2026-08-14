@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shailendra-102/leet/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shailendra-102/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/shailendra-102/leet/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shailendra-102/leet/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/shailendra-102/leet/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shailendra-102/leet/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
@@ -61,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/shailendra-102/leet/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/shailendra-102/leet/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
