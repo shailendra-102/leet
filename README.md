@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/shailendra-102/leet/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shailendra-102/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shailendra-102/leet/tree/master/0136-single-number) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shailendra-102/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shailendra-102/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shailendra-102/leet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
