@@ -143,6 +143,7 @@
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/shailendra-102/leet/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/shailendra-102/leet/tree/master/0374-guess-number-higher-or-lower) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Prefix Sum
@@ -304,4 +305,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shailendra-102/leet/tree/master/0202-happy-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shailendra-102/leet/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
