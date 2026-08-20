@@ -14,16 +14,8 @@ public:
             }
         }
 
-        vector<int> result;
+        arr1.insert(arr1.end(), arr2.begin(), arr2.end());
 
-        for (int x : arr1) {
-            result.push_back(x);
-        }
-
-        for (int x : arr2) {
-            result.push_back(x);
-        }
-
-        return result;
+        return arr1;
     }
 };
