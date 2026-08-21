@@ -38,6 +38,7 @@
 | [0697-degree-of-an-array](https://github.com/shailendra-102/leet/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/shailendra-102/leet/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/shailendra-102/leet/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shailendra-102/leet/tree/master/0922-sort-array-by-parity-ii) |
