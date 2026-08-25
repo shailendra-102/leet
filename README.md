@@ -45,6 +45,7 @@
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shailendra-102/leet/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shailendra-102/leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shailendra-102/leet/tree/master/1929-concatenation-of-array) |
@@ -98,6 +99,7 @@
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shailendra-102/leet/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shailendra-102/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shailendra-102/leet/tree/master/3731-find-missing-elements) |
@@ -187,6 +189,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shailendra-102/leet/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shailendra-102/leet/tree/master/0697-degree-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/shailendra-102/leet/tree/master/2540-minimum-common-value) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -214,6 +217,7 @@
 | [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
 |  |
 | ------- |
