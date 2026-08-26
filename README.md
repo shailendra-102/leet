@@ -45,6 +45,7 @@
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shailendra-102/leet/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shailendra-102/leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shailendra-102/leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -99,6 +100,7 @@
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shailendra-102/leet/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shailendra-102/leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shailendra-102/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -204,11 +206,13 @@
 | [0287-find-the-duplicate-number](https://github.com/shailendra-102/leet/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/shailendra-102/leet/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shailendra-102/leet/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shailendra-102/leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/shailendra-102/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shailendra-102/leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Counting Sort
