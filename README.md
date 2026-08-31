@@ -47,6 +47,7 @@
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shailendra-102/leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shailendra-102/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shailendra-102/leet/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shailendra-102/leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -103,6 +104,7 @@
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shailendra-102/leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shailendra-102/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shailendra-102/leet/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1859-sorting-the-sentence](https://github.com/shailendra-102/leet/tree/master/1859-sorting-the-sentence) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -195,6 +197,7 @@
 | [0645-set-mismatch](https://github.com/shailendra-102/leet/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shailendra-102/leet/tree/master/0697-degree-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shailendra-102/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/shailendra-102/leet/tree/master/2540-minimum-common-value) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
