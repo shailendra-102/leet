@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/shailendra-102/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra-102/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailendra-102/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shailendra-102/leet/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shailendra-102/leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -265,6 +266,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra-102/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/shailendra-102/leet/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
@@ -273,6 +275,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra-102/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/shailendra-102/leet/tree/master/0437-path-sum-iii) |
 ## String
 |  |
@@ -291,6 +294,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shailendra-102/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shailendra-102/leet/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra-102/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -360,4 +364,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shailendra-102/leet/tree/master/0069-sqrtx) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra-102/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
