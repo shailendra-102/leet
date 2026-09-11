@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/shailendra-102/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/shailendra-102/leet/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra-102/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailendra-102/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shailendra-102/leet/tree/master/0136-single-number) |
@@ -217,6 +218,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/shailendra-102/leet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shailendra-102/leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shailendra-102/leet/tree/master/0268-missing-number) |
@@ -375,4 +377,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra-102/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/shailendra-102/leet/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
