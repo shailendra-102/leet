@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shailendra-102/leet/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shailendra-102/leet/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/shailendra-102/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/shailendra-102/leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shailendra-102/leet/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/shailendra-102/leet/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/shailendra-102/leet/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shailendra-102/leet/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shailendra-102/leet/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shailendra-102/leet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shailendra-102/leet/tree/master/0090-subsets-ii) |
 ## Enumeration
