@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shailendra-102/leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shailendra-102/leet/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/shailendra-102/leet/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/shailendra-102/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
@@ -388,6 +389,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/shailendra-102/leet/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shailendra-102/leet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shailendra-102/leet/tree/master/0090-subsets-ii) |
 ## Enumeration
