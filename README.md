@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shailendra-102/leet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shailendra-102/leet/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/shailendra-102/leet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shailendra-102/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shailendra-102/leet/tree/master/0075-sort-colors) |
@@ -393,6 +394,7 @@
 | ------- |
 | [0046-permutations](https://github.com/shailendra-102/leet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shailendra-102/leet/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/shailendra-102/leet/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/shailendra-102/leet/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shailendra-102/leet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shailendra-102/leet/tree/master/0090-subsets-ii) |
@@ -400,4 +402,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/3483-unique-3-digit-even-numbers) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shailendra-102/leet/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
