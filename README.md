@@ -156,6 +156,7 @@
 | [0053-maximum-subarray](https://github.com/shailendra-102/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailendra-102/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/shailendra-102/leet/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/shailendra-102/leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailendra-102/leet/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
+| [0131-palindrome-partitioning](https://github.com/shailendra-102/leet/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shailendra-102/leet/tree/master/0387-first-unique-character-in-a-string) |
@@ -402,6 +404,7 @@
 | [0077-combinations](https://github.com/shailendra-102/leet/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shailendra-102/leet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shailendra-102/leet/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/shailendra-102/leet/tree/master/0131-palindrome-partitioning) |
 ## Enumeration
 |  |
 | ------- |
