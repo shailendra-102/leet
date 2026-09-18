@@ -63,6 +63,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shailendra-102/leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shailendra-102/leet/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shailendra-102/leet/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/shailendra-102/leet/tree/master/2104-sum-of-subarray-ranges) |
 | [2540-minimum-common-value](https://github.com/shailendra-102/leet/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -124,6 +125,7 @@
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shailendra-102/leet/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1859-sorting-the-sentence](https://github.com/shailendra-102/leet/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shailendra-102/leet/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shailendra-102/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shailendra-102/leet/tree/master/3731-find-missing-elements) |
@@ -223,6 +225,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shailendra-102/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/shailendra-102/leet/tree/master/2540-minimum-common-value) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shailendra-102/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -261,6 +264,7 @@
 | [0002-add-two-numbers](https://github.com/shailendra-102/leet/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/shailendra-102/leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/shailendra-102/leet/tree/master/0231-power-of-two) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
@@ -408,6 +412,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Algorithm X
 |  |
