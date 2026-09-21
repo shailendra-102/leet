@@ -64,6 +64,7 @@
 | [1748-sum-of-unique-elements](https://github.com/shailendra-102/leet/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shailendra-102/leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shailendra-102/leet/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/shailendra-102/leet/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shailendra-102/leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/shailendra-102/leet/tree/master/2104-sum-of-subarray-ranges) |
@@ -209,6 +210,7 @@
 | [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shailendra-102/leet/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shailendra-102/leet/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/shailendra-102/leet/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
