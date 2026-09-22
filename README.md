@@ -217,6 +217,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shailendra-102/leet/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shailendra-102/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/shailendra-102/leet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shailendra-102/leet/tree/master/0202-happy-number) |
@@ -317,6 +318,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shailendra-102/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
 | [0131-palindrome-partitioning](https://github.com/shailendra-102/leet/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
@@ -388,6 +390,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shailendra-102/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shailendra-102/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shailendra-102/leet/tree/master/0643-maximum-average-subarray-i) |
 ## Floyd's Cycle Finding Algorithm
