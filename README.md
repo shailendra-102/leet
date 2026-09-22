@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shailendra-102/leet/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shailendra-102/leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shailendra-102/leet/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shailendra-102/leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shailendra-102/leet/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shailendra-102/leet/tree/master/0027-remove-element) |
@@ -80,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shailendra-102/leet/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shailendra-102/leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shailendra-102/leet/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shailendra-102/leet/tree/master/0027-remove-element) |
@@ -276,6 +278,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shailendra-102/leet/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
