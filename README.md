@@ -42,6 +42,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/shailendra-102/leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shailendra-102/leet/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/shailendra-102/leet/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/shailendra-102/leet/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-102/leet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shailendra-102/leet/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/shailendra-102/leet/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/shailendra-102/leet/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shailendra-102/leet/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shailendra-102/leet/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -232,6 +234,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shailendra-102/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shailendra-102/leet/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shailendra-102/leet/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/shailendra-102/leet/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shailendra-102/leet/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shailendra-102/leet/tree/master/0697-degree-of-an-array) |
