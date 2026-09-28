@@ -9,11 +9,10 @@ public:
             diff[st-1]+=seats;
             diff[end]-=seats;
         }
-        vector<int>ans(n);
-        ans[0]=diff[0];
         for(int i=1;i<n;i++){
-            ans[i]=ans[i-1]+diff[i];
+            diff[i]+=diff[i-1];
         }
-        return ans;
+        diff.pop_back();
+        return diff;
     }
 };
