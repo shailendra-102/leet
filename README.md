@@ -191,6 +191,7 @@
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/shailendra-102/leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shailendra-102/leet/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra-102/leet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shailendra-102/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/shailendra-102/leet/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -351,6 +352,7 @@
 | [0412-fizz-buzz](https://github.com/shailendra-102/leet/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shailendra-102/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra-102/leet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shailendra-102/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/shailendra-102/leet/tree/master/1859-sorting-the-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailendra-102/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
