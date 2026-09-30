@@ -98,6 +98,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shailendra-102/leet/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shailendra-102/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shailendra-102/leet/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/shailendra-102/leet/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shailendra-102/leet/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shailendra-102/leet/tree/master/0922-sort-array-by-parity-ii) |
 | [2540-minimum-common-value](https://github.com/shailendra-102/leet/tree/master/2540-minimum-common-value) |
@@ -191,6 +192,7 @@
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/shailendra-102/leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shailendra-102/leet/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/shailendra-102/leet/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra-102/leet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shailendra-102/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/shailendra-102/leet/tree/master/2104-sum-of-subarray-ranges) |
@@ -316,6 +318,7 @@
 | [0412-fizz-buzz](https://github.com/shailendra-102/leet/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/shailendra-102/leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shailendra-102/leet/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/shailendra-102/leet/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/shailendra-102/leet/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shailendra-102/leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
@@ -352,6 +355,7 @@
 | [0412-fizz-buzz](https://github.com/shailendra-102/leet/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shailendra-102/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0844-backspace-string-compare](https://github.com/shailendra-102/leet/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra-102/leet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shailendra-102/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/shailendra-102/leet/tree/master/1859-sorting-the-sentence) |
