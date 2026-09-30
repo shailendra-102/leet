@@ -186,6 +186,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shailendra-102/leet/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/shailendra-102/leet/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shailendra-102/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -338,6 +339,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shailendra-102/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shailendra-102/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/shailendra-102/leet/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/shailendra-102/leet/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
@@ -454,5 +456,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shailendra-102/leet/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shailendra-102/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
