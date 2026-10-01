@@ -192,6 +192,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shailendra-102/leet/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shailendra-102/leet/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/shailendra-102/leet/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shailendra-102/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/shailendra-102/leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shailendra-102/leet/tree/master/0735-asteroid-collision) |
@@ -353,6 +354,7 @@
 | [0012-integer-to-roman](https://github.com/shailendra-102/leet/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shailendra-102/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shailendra-102/leet/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/shailendra-102/leet/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/shailendra-102/leet/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shailendra-102/leet/tree/master/0242-valid-anagram) |
