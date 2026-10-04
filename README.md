@@ -77,6 +77,7 @@
 | [2540-minimum-common-value](https://github.com/shailendra-102/leet/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2951-find-the-peaks](https://github.com/shailendra-102/leet/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shailendra-102/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shailendra-102/leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shailendra-102/leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -467,6 +468,7 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/2094-finding-3-digit-even-numbers) |
+| [2951-find-the-peaks](https://github.com/shailendra-102/leet/tree/master/2951-find-the-peaks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Algorithm X
 |  |
