@@ -198,6 +198,7 @@
 | [0682-baseball-game](https://github.com/shailendra-102/leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shailendra-102/leet/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/shailendra-102/leet/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shailendra-102/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra-102/leet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shailendra-102/leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shailendra-102/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -312,6 +313,7 @@
 | [0055-jump-game](https://github.com/shailendra-102/leet/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/shailendra-102/leet/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/shailendra-102/leet/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shailendra-102/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailendra-102/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -367,6 +369,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/shailendra-102/leet/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/shailendra-102/leet/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shailendra-102/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra-102/leet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shailendra-102/leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shailendra-102/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -480,6 +483,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shailendra-102/leet/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shailendra-102/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shailendra-102/leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shailendra-102/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
