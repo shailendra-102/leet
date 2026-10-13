@@ -83,6 +83,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shailendra-102/leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shailendra-102/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shailendra-102/leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shailendra-102/leet/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shailendra-102/leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -141,6 +142,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/shailendra-102/leet/tree/master/2094-finding-3-digit-even-numbers) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shailendra-102/leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shailendra-102/leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shailendra-102/leet/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -320,6 +322,7 @@
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shailendra-102/leet/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/shailendra-102/leet/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailendra-102/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shailendra-102/leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |
