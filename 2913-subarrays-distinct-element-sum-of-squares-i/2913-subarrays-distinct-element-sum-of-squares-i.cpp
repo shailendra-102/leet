@@ -8,7 +8,7 @@ public:
             for(int j=i;j<n;j++){
                     st.insert(nums[j]);
                     int size=st.size();
-                    sum+=pow(size,2);
+                    sum+=size*size;
             }
         }
         return sum;
