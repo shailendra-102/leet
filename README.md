@@ -58,6 +58,7 @@
 | [0905-sort-array-by-parity](https://github.com/shailendra-102/leet/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shailendra-102/leet/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shailendra-102/leet/tree/master/0922-sort-array-by-parity-ii) |
+| [1002-find-common-characters](https://github.com/shailendra-102/leet/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/shailendra-102/leet/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/shailendra-102/leet/tree/master/1109-corporate-flight-bookings) |
 | [1331-rank-transform-of-an-array](https://github.com/shailendra-102/leet/tree/master/1331-rank-transform-of-an-array) |
@@ -265,6 +266,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shailendra-102/leet/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shailendra-102/leet/tree/master/0697-degree-of-an-array) |
+| [1002-find-common-characters](https://github.com/shailendra-102/leet/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/shailendra-102/leet/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shailendra-102/leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shailendra-102/leet/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -383,6 +385,7 @@
 | [0657-robot-return-to-origin](https://github.com/shailendra-102/leet/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/shailendra-102/leet/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shailendra-102/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1002-find-common-characters](https://github.com/shailendra-102/leet/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/shailendra-102/leet/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra-102/leet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shailendra-102/leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
