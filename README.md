@@ -269,6 +269,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shailendra-102/leet/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shailendra-102/leet/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/shailendra-102/leet/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/shailendra-102/leet/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/shailendra-102/leet/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/shailendra-102/leet/tree/master/1331-rank-transform-of-an-array) |
@@ -387,6 +388,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/shailendra-102/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shailendra-102/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/shailendra-102/leet/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/shailendra-102/leet/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/shailendra-102/leet/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shailendra-102/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/shailendra-102/leet/tree/master/1002-find-common-characters) |
